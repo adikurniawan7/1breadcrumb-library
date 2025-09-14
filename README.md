@@ -53,3 +53,8 @@ Book should be it's own table, and there should be a reference table with FK bet
 
 Unfortunately Unit Test has not been created for this project due to time constraint. 
 Future release will see Unit Test added to test each API endpoint.
+
+## Support
+
+Please contact Adi Kurniawan at 7adikurniawan@gmail.com for any issues.
+Thank you for the opportunity. This has been really fun.
