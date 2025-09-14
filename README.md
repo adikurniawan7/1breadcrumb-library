@@ -57,4 +57,4 @@ Future release will see Unit Test added to test each API endpoint.
 ## Support
 
 Please contact Adi Kurniawan at 7adikurniawan@gmail.com for any issues.
-Thank you for the opportunity. This has been really fun.
+<br/>Thank you for the opportunity. This has been really fun.
