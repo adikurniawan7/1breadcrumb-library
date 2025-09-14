@@ -1,0 +1,6 @@
+@OneBreadcrumbLibrary_HostAddress = http://localhost:5178
+
+GET {{OneBreadcrumbLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

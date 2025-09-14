@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Pragmatic Programmer",
+      "owner": "Andrew Hunt",
+      "isbn": "978-0201616224",
+      "publishedDate": "1999-10-20T00:00:00Z",
+      "availability": true
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "owner": "Robert C. Martin",
+      "isbn": "978-0132350884",
+      "publishedDate": "2008-08-01T00:00:00Z",
+      "availability": false
+    },
+    {
+      "id": 3,
+      "title": "Design Patterns",
+      "owner": "Erich Gamma",
+      "isbn": "978-0201633610",
+      "publishedDate": "1994-10-21T00:00:00Z",
+      "availability": true
+    },
+    {
+      "id": 4,
+      "title": "You Don\u0027t Know JS: Scope \u0026 Closures",
+      "owner": "Kyle Simpson",
+      "isbn": "978-1449335588",
+      "publishedDate": "2014-03-20T00:00:00Z",
+      "availability": false
+    },
+    {
+      "id": 5,
+      "title": "Introduction to Algorithms",
+      "owner": "Thomas H. Cormen",
+      "isbn": "978-0262033848",
+      "publishedDate": "2009-07-31T00:00:00Z",
+      "availability": true
+    }
+  ]
+}
